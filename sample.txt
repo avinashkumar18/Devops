@@ -1,1 +1,1 @@
-This is sample text file in main branch
+This is sample text file in develop branch
