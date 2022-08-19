@@ -1,1 +1,1 @@
-This is sample text file in develop branch and adding author as reviewer
+This is sample text file in develop branch and adding reviewer not equals author
